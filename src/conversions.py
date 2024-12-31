@@ -35,5 +35,3 @@ def df_from_parquet(file_path):
     table = pq.read_table(file_path)
     df = table.to_pandas()
     return df
-
-fbm_html_to_parquet("./data/table.html", "table")
