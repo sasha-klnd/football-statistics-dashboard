@@ -1,6 +1,6 @@
-Football Statistics Dashboard
+# Football Statistics Dashboard
 
-This is a data analysis project where the goal is the build an interactive dashboard application for vizualizing and 
-understanding football data.
+## Project Description 
 
-The program will acquire input data by scraping public football statistics sites like FBref.com
+The goal of this project is to build an interactive dashboard web app for vizualizing and understanding
+football statistics. Input data will be acquired from public statistics websites like FBref.com. 
